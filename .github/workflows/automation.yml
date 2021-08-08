@@ -1,4 +1,4 @@
-name: Upload zipFile to Github Release
+name: Release zipFiile to Github
 on: [push]
 jobs:
   build:
